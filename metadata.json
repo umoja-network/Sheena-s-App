@@ -1,0 +1,8 @@
+{
+  "name": "Sheena's App",
+  "description": "Upload photos and automatically overlay real-time geolocation, address, and timestamp data in a professional camera style.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
